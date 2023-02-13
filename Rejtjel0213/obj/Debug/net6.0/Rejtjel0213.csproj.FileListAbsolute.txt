@@ -1,0 +1,15 @@
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\bin\Debug\net6.0\Rejtjel0213.exe
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\bin\Debug\net6.0\Rejtjel0213.deps.json
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\bin\Debug\net6.0\Rejtjel0213.runtimeconfig.json
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\bin\Debug\net6.0\Rejtjel0213.dll
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\bin\Debug\net6.0\Rejtjel0213.pdb
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\Rejtjel0213.csproj.AssemblyReference.cache
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\Rejtjel0213.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\Rejtjel0213.AssemblyInfoInputs.cache
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\Rejtjel0213.AssemblyInfo.cs
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\Rejtjel0213.csproj.CoreCompileInputs.cache
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\Rejtjel0213.dll
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\refint\Rejtjel0213.dll
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\Rejtjel0213.pdb
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\Rejtjel0213.genruntimeconfig.cache
+C:\Users\lakatos.balazs\source\repos\Rejtjel0213\obj\Debug\net6.0\ref\Rejtjel0213.dll
